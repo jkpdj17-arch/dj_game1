@@ -1,0 +1,6 @@
+{
+  "name": "Candy Jewel Match",
+  "description": "캔디 크러시 스타일의 매치-3 퍼즐 보석 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
